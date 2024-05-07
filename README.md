@@ -5,7 +5,6 @@ In the case of minesweeper, given some propositions (e.g: "There are 2 mines in 
 
 ## Demonstration
 Win rate: ~90%
-<video autoplay>
-  <source src="https://github.com/Andrewzekid/Minesweeper-AI/assets/79450923/983e8920-f24c-4421-984c-fb1e7501c54c" type="video/mp4">
-  </video>
+<video src="https://github.com/Andrewzekid/Minesweeper-AI/assets/79450923/983e8920-f24c-4421-984c-fb1e7501c54c" width="300" />
+
 
